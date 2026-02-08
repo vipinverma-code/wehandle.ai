@@ -1,11 +1,12 @@
+import Navbar from './components/Navbar'
+import { useState } from 'react';
 const App = () => {
+  const[theme, setTheme] = useState('light')
   return (
-    <div className="min-h-screen flex items-center justify-center">
-      <div className="bg-[var(--color-primary)] text-white px-6 py-4 rounded-lg text-xl">
-        wehandle.ai
-      </div>
+    <div className='dark:bg-black relative'>
+      <Navbar theme={theme} setTheme={setTheme}/>
     </div>
+  
   );
 };
-
 export default App;
