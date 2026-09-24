@@ -58,7 +58,6 @@ const Navbar = ({ theme, setTheme }) => {
           </a>
         </div>
       </div>
-
     </>
   );
 };
