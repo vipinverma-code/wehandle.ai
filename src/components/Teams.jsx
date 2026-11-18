@@ -1,7 +1,6 @@
 import React from 'react'
 import Title from './Title'
 import assets, { teamData } from '../assets/assets'
-
 const Teams = () => {
   return (
     <div className='flex flex-col items-center gap-7 px-4 sm:px-12 lg:px-24
