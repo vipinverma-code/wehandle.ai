@@ -136,7 +136,7 @@ const Footer = ({ theme }) => {
               className="transition-all duration-300 group-hover:scale-110 group-hover:brightness-75"
             />
           </a>
-          <a href="https://www.instagram.com/" className="group">
+          <a href="https://www.instagram.com/wehandle.in/" className="group">
             <img
               src={assets.instagram_icon}
               alt="Instagram"

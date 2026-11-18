@@ -98,13 +98,13 @@ export const teamData=[
 
   {
     name:"Shristi Ojha",
-    title:"Content Strategiest"
+    title:"Content Strategist",
     image:'/Shristi1.jpeg',
   },
 
   {
     name:"Deepak Verma",
     title:"UI/UX Designer",
-    image:'/Deepak.jpeg',
+    image:'/Deepak.jpg',
   }
 ]
