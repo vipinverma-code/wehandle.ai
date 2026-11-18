@@ -29,6 +29,7 @@ import google_logo from './google_logo.svg'
 import menu_icon_dark from './menu_icon_dark.svg'
 import sun_icon from './sun_icon.svg'
 import moon_icon from './moon_icon.svg'
+import SanskarImg from './Sanskar.jpeg'
 
 
 export const company_logos = [
@@ -86,6 +87,24 @@ export const teamData=[
   {
     name:'Vipin Verma',
     title:'Founder & Frontend Developer',
-    image:'/assets/vipin.jpeg',
+    image:'/vipin.jpeg',
+  },
+
+  {
+    name: "Sanskar Mishra",
+    title: "Digital Marketing Specialist",
+    image: SanskarImg,
+  },
+
+  {
+    name:"Shristi Ojha",
+    title:"Content Strategiest"
+    image:'/Shristi1.jpeg',
+  },
+
+  {
+    name:"Deepak Verma",
+    title:"UI/UX Designer",
+    image:'/Deepak.jpeg',
   }
 ]
